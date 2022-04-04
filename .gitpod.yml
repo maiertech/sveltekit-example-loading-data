@@ -1,0 +1,11 @@
+ports:
+  - port: 3000
+    onOpen: open-preview
+tasks:
+  - init: npm install
+    command: npm run dev
+vscode:
+  extensions:
+    - dbaeumer.vscode-eslint
+    - esbenp.prettier-vscode
+    - svelte.svelte-vscode
