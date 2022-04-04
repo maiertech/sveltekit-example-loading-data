@@ -1,9 +1,9 @@
 {
-	"name": "sveltekit-example-template",
-	"description": "A GitHub template to create SvelteKit examples which run on StackBlitz.",
+	"name": "sveltekit-example-loading-data",
+	"description": "How to load data from an external API in SvelteKit.",
 	"version": "0.0.0",
 	"license": "MIT",
-	"repository": "maiertech/sveltekit-example-template",
+	"repository": "maiertech/sveltekit-loading-data",
 	"scripts": {
 		"dev": "svelte-kit dev",
 		"build": "svelte-kit build",
